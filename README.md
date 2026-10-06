@@ -23,7 +23,7 @@ Rápidos, feitos para o celular e pensados para começar conversas.
 | --- | --- |
 | **Landing Pages** | Uma página só, com um objetivo só: fazer quem chegou virar conversa no WhatsApp. |
 | **Sites Institucionais** | O site que mostra quem você é e como trabalha, para o cliente decidir antes mesmo de falar com você. |
-| **Lojas Virtuais** | Catálogo, carrinho e pagamento de verdade, no cartão e no PIX, com painel para você gerenciar sozinho. |
+| **Lojas Virtuais** | Catálogo, carrinho e pagamento de verdade, cartão e no PIX, com painel para você gerenciar sozinho. |
 | **Sistemas sob medida** | Quando o trabalho não cabe numa planilha: sistema feito para o seu jeito, com níveis de acesso e painel. |
 | **Manutenção & Suporte** | Seu site no ar, atualizado e seguro. Você não precisa aprender nada disso. |
 
